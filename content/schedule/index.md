@@ -34,7 +34,7 @@ Looking for a closer workout? Check out a surrounding Region:<br/><br/>
 | Monday    | [McCrimmon Park](https://maps.app.goo.gl/LPjh9en8uMiYYggc9)           | 0715 - 0800        | Alpha            | Boot Camp                                                 |
 | Tuesday   | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                     | 0545 - 0630        | Field of Dreams | Boot Camp                                                                |
 | Tuesday   | [Carpenter Fire Station Park](https://maps.app.goo.gl/cRtzFzNsS95BiDHi9)                  | 0530 - 0615        | Epcot  | High Tempo Boot Camp                                                                |                                                                |
-| Wednesday | [McCrimmon Park](https://maps.app.goo.gl/LPjh9en8uMiYYggc9)           | 0530 - 0615        | Whereville            | Boot Camp                                                   |                                                                
+| Wednesday | [McCrimmon Park](https://maps.app.goo.gl/LPjh9en8uMiYYggc9)           | 0530 - 0615        | Whereville            | Boot Camp + Kettle Bell Joint Workout                                                 |                                                                
 | Wednesday | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)           | 0545 - 0630        | The Iron Furnace           | Kettle Bells |                                                                |
 | Thursday  | [Mills Park](https://goo.gl/maps/APjv2Dh1AxsQSRnR6)    | 0545 - 0630        | Flying Circus          | Boot Camp                                                |                                                                
 | Friday    | [Thomas Brooks Park](https://goo.gl/maps/rwpS6sp1aFQMwgFq7)                | 0545 - 0630        | The Sultans of Swing     | Kettle Bells | 
@@ -52,3 +52,4 @@ Many, but not all events at [Lowes Foods in West Cary](https://goo.gl/maps/Sik2F
 
 Tuesday  [Good Hope Baptist Church](https://goo.gl/maps/PvaKhGoJXhpNpqdt6)           1830 -       Iron Sharpens Iron        Bible Study       
 Friday [Amberly Local](https://www.google.com/maps/place/Amberly+Local/@35.8307685,-78.9111747,17z/data=!3m1!4b1!4m6!3m5!1s0x89aced4d236c1d3f:0xb3624fcf14170981!8m2!3d35.8307685!4d-78.9085998!16s%2Fg%2F11fp3q_wzg?entry=ttu&g_ep=EgoyMDI2MDExMS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D)           1130 - 1300      Disciples Bible Study (Rotating Study Guides)        
+Saturday NeighborUp Pantry - Weekly delivery of food from Lowes Foods to The NeighborUp Pantry (see Hook as Site Q for more info)
